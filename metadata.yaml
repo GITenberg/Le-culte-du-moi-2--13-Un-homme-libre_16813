@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Maurice_Barrès
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16813#Le-culte-du-moi-2--13-Un-homme-libre
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-10-07'
 gutenberg_type: Text
